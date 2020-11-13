@@ -37,13 +37,4 @@ This Tool does not promote or encourage any illigal activities , all contents pr
 
 10.pip install requests
 
-# ⚠️ Download link ⚠️
-
-11. termux-setup-storage
-
-12. cd (storage location)
-
-13. chmod +x *
-
-14. python spam.spy
 
