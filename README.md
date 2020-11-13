@@ -14,6 +14,7 @@ $ apt install perl
 $ pip install requests
 ```
 # All COMMANDS
+```
 $ pkg install python
 $ pkg install git
 $ python3 -m pip install requests
