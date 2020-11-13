@@ -2,25 +2,16 @@
 
 # Whatsapp Samp Message
 ```
-1.  apt update 
-
-2.  apt upgrade 
-
-3.  apt install git 
-
-4.  apt install php 
-
-5.  apt install curl 
-
-6.  apt install python
-
-7.  apt install wget 
-
-8.  apt install openssh 
-
-9.  apt install perl
-
-10. pip install requests
+$ apt update 
+$ apt upgrade 
+$ apt install git 
+$ apt install php 
+$ apt install curl 
+$ apt install python
+$ apt install wget 
+$ apt install openssh 
+$ apt install perl
+$ pip install requests
 
 $ pkg install python
 $ pkg install git
