@@ -35,6 +35,6 @@ This Tool does not promote or encourage any illigal activities , all contents pr
 
 9.  apt install perl
 
-10.pip install requests
+10. pip install requests
 
 
