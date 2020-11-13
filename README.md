@@ -1,4 +1,4 @@
-![full](hacker-25926.png)
+![full](joker-21110.png)
 
 # Whatsapp Samp Message
 ```
