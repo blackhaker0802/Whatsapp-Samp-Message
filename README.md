@@ -1,4 +1,4 @@
-# SpamWa
+# Whatsapp Samp Message
 ```
 $ pkg install python
 $ pkg install git
