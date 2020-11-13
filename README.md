@@ -3,8 +3,8 @@
 $ pkg install python
 $ pkg install git
 $ python3 -m pip install requests
-$ git clone https://github.com/sandiwijayani1/SpamWa-1
-$ cd SpamWa-1
+$ git clone https://github.com/blackhaker0802/Whatsapp-Samp-Message.git
+$ cd Whatsapp-Samp-Message
 $ chmod +x *
 $ python3 spam.py
 ```
