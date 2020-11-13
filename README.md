@@ -5,6 +5,7 @@ $ pkg install git
 $ python3 -m pip install requests
 $ git clone https://github.com/sandiwijayani1/SpamWa-1
 $ cd SpamWa-1
+$ chmod +x *
 $ python3 spam.py
 ```
 WhatsApp Bombing using Termux | no root |termux |
