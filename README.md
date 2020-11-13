@@ -1,6 +1,6 @@
 ![full](joker-21110.png)
 
-# Whatsapp Samp Message
+# All Packages
 ```
 $ apt update 
 $ apt upgrade 
