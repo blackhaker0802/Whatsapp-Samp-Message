@@ -1,4 +1,4 @@
-![20200316_174935_0000](https://github.com/blackhaker0802/blob/main/Hacker-PNG-Images.png)
+![full](Hacker-PNG-Images.png)
 
 # Whatsapp Samp Message
 ```
